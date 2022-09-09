@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif, Tahoma;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #000;;
+}
+p {
+    text-indent: 20px;
+}
+.title {
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+.justify {
+    text-align: justify;
+    font-weight: bold;
+    font-style: italic;
+}
